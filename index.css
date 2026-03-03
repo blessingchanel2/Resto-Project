@@ -17,29 +17,3 @@ footer{
     display: flex;
     background-color: rgb(109, 51, 51);
 }
-.logo h2{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 2rem;
-    color: #0ef;
-    font-weight: bold;
-    display: flex;
-}
-.column2{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-
-}
-.column2 a{
-    text-decoration: none;
-}
-.column2 a li{
-    list-style: none;
-    font-size: 1.1em;
-    color: white;
-}
-.column2 a li:hover{
-    color: #0ef;
-    font-size: 1.3em;
-}
