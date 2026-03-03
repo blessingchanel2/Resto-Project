@@ -1,0 +1,15 @@
+.login{
+    width: 70%;
+    height: 50%;
+    border-radius: 5%;
+    border: none;
+    background-color: rgba(245, 245, 245, 0.3);
+}
+button{
+    border-radius: 5%;
+    background-color: aqua;
+    font-size: 1em;
+    font-weight: bold;
+    color: rgb(7, 77, 77);
+    border: none;
+}
